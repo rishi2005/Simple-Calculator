@@ -45,3 +45,7 @@ Built for simplicity yet packed with a **sleek UI**, smooth animations, and inte
 This project is a great **practice exercise** for beginners learning **JavaScript DOM manipulation** and **UI design** with Tailwind CSS, while still being a **fully functional calculator** you can actually use daily.
 
 ---
+
+## Live Demo  
+[Click here to view the Simple Calculator](https://simple-calculator-phi-dusky.vercel.app)
+
